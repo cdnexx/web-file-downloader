@@ -1,5 +1,4 @@
 from os import link
-from urllib import response
 import requests
 from bs4 import BeautifulSoup
 
